@@ -55,6 +55,11 @@ https://gitlab.com/japtain_cack/frozenflame-server
 "path\to\FrozenFlameServer.exe" -log -LOCALLOGTIMES -MetaGameServerName="YOURSERVERNAME" -ip=xxx.xxx.xxx.xxx -Port=7777 -queryPort=25575 -RconPort=27015 -RconPassword=YOURPASSWORD 
 `
 
+# Guides
+
+## Hamachi Guide
+[Hamachi - aisyshk](./hosting/Hamachi.md)
+
 # Command line arguments
 
 `-log` - Shows a server console
